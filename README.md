@@ -15,10 +15,6 @@ In the proposed system, interchain data transfer is revolutionized through the u
 - **Cross-Chain Data Transfer**: The system enables efficient cross-chain data transfer, allowing the retrieval and verification of data across different blockchain networks.
 - **Healthcare Data Exchange**: The proposed architecture is demonstrated through experiments in the healthcare domain, showcasing its effectiveness in enabling secure data exchange and verification of electronic medical records (EMRs).
 
-## Installation and Usage
-
-Detailed instructions for installing and running the system will be provided in the future.
-
 ## Contributing
 
 Contributions to this project are welcome. Please follow the standard guidelines for contributing to open-source projects.
