@@ -29,4 +29,4 @@ This research is funded by the University of Information Technology - Vietnam Na
 
 ## References
 
-[1] Tran, T.-D., Vo, K.A., Tram, N.B.T., Bui Kim, N.N., Phan, T.D., & Pham, V.-H. (2023). Enhancing Blockchain Interoperability Through Sidechain Integration and Valid-Time-Key Data Access Control. In N.-N. Dao et al. (Eds.), ICIT 2023, LNDECT 188, pp. 213–224. Springer Nature Switzerland AG.
+Tran, T.-D., Vo, K.A., Tram, N.B.T., Bui Kim, N.N., Phan, T.D., & Pham, V.-H. (2023). Enhancing Blockchain Interoperability Through Sidechain Integration and Valid-Time-Key Data Access Control. In N.-N. Dao et al. (Eds.), ICIT 2023, LNDECT 188, pp. 213–224. Springer Nature Switzerland AG.
